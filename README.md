@@ -20,6 +20,8 @@
   - 💬 Iniciei minha jornada na tecnologia com entusiasmo e sede de aprendizado, focando em me tornar desenvolvedor Full-Stack com linguagens e frameworks como JavaScript, React, Node.JS e Java.
 
   - ⚡Gosto de ler, ouvir músicas, assitir séries, além de acompahar os jogos do meu time do coração! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada de tudo para a resolução de problemas. \o/
+
+  - 👷‍♂️ Mais projetos serão adicionados em breve, então volte sempre e terá novidades! Estou em constante desenvolvimento. 
 </details>
 
 <!-- Links -->
