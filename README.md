@@ -44,6 +44,7 @@
 - [Full Stack - TO-DO](https://github.com/eulucas1/to-do-fullstack)
 - [Gemini com Node.JS](https://github.com/eulucas1/node-gemini)
 - [React - Mercado Flex](https://github.com/eulucas1/react-mercado-flex)
+- [React - Shop Car](https://github.com/eulucas1/react-shopcar)
 - [React - Amigo Secreto](https://github.com/eulucas1/ts_amigosecreto)
 - [JavaScript - Jogo 2048 ](https://github.com/eulucas1/jogo_2048)
 
