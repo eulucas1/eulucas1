@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim: </summary>
 
-  - 💬 Iniciei minha jornada na tecnologia com entusiasmo e sede de aprendizado, focando em me tornar desenvolvedor Full-Stack com linguagens e frameworks como JavaScript, React, Node.JS e Java.
+  - 💬 Iniciei minha jornada na tecnologia com entusiasmo e sede de aprendizado, focando em me tornar desenvolvedor Full-Stack com linguagens e frameworks como JavaScript, Python React, Node.JS e Java.
 
   - ⚡Gosto de ler, ouvir músicas, assitir séries, além de acompahar os jogos do meu time do coração! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada de tudo para a resolução de problemas. \o/
 
@@ -43,6 +43,7 @@
 - [Meu Site](https://portfolio-lucas-marques.vercel.app/) - Veja mais sobre mim: Trajetória, Projetos e Certificados 
 - [Full Stack - TO-DO](https://github.com/eulucas1/to-do-fullstack)
 - [Gemini com Node.JS](https://github.com/eulucas1/node-gemini)
+- [API REST - DJANGO REST FRAMEWORK](https://github.com/eulucas1/api-clinica)
 - [React - Mercado Flex](https://github.com/eulucas1/react-mercado-flex)
 - [React - Shop Car](https://github.com/eulucas1/react-shopcar)
 - [React - Amigo Secreto](https://github.com/eulucas1/ts_amigosecreto)
